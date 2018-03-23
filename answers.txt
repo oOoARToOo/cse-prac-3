@@ -1,0 +1,15 @@
+How many commits are there in total? 11
+
+When was the last commit made? Tue Mar 20 14:21:18 2018 +0200
+
+Who is the author of those commits? Stepan Bolotnikov <stjoopa@gmail.com>
+
+What changes were made in the commit with the SHA-1 hash cebfb97? One new file "config.txt" with 8 additions and 0 deletions:
++core.repositoryformatversion=0
++core.filemode=false
++core.bare=false
++core.logallrefupdates=true
++remote.origin.url=git@github.com:Stopa/cse-prac3-history.git
++remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
++branch.master.remote=origin
++branch.master.merge=refs/heads/master
